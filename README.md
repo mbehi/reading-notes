@@ -7,6 +7,9 @@ Three reminders of yourself of how to keep yourself in a growth mindset:
 2. I need to always remind myself of the reason that I joined Code Fellows.
 3. I will never give up! 
 
+[Growth Mindset](https://149366099.v2.pressablecdn.com/wp-content/uploads/2015/02/Carol-Dweck-Two-Mindsets.jpg)
+*Source: https://fs.blog/2015/03/carol-dweck-mindset/
+
 [GitHub portfolio page](https://github.com/mbehi)
 
 You can use the [editor on GitHub](https://github.com/mbehi/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
