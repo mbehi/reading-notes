@@ -8,6 +8,7 @@ Three reminders of yourself of how to keep yourself in a growth mindset:
 2. I need to always remind myself of the reason that I joined Code Fellows.
 3. I will never give up! 
 
+[GitHub portfolio page](https://github.com/mbehi)
 
 You can use the [editor on GitHub](https://github.com/mbehi/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
