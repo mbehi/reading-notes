@@ -8,7 +8,6 @@ Three reminders of yourself of how to keep yourself in a growth mindset:
 3. I will never give up! 
 
 ![logo](https://149366099.v2.pressablecdn.com/wp-content/uploads/2015/02/Carol-Dweck-Two-Mindsets.jpg)
-
 Source: https://fs.blog/2015/03/carol-dweck-mindset/
 
 [GitHub portfolio page](https://github.com/mbehi)
