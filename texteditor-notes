@@ -18,3 +18,13 @@ What features should you look for in a text editor?
   - ls: list the contents of a directory
   - cd: change directories
 
+## About Files
+- Everything is a file
+- Linux is an extensionless system
+  - file [path]
+- Linux is case sensitive
+- Spaces in names
+  - Quotes: example 'Holiday Photos'
+  - Escape Characters: a backslash (\)
+  
+[Back to the Main Page](readme.md)
