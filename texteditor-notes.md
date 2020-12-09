@@ -1,3 +1,5 @@
+[Go Back to the README Page](reading-notes)
+
 # Text Editor Notes
 
 ## Text Editor
