@@ -1,4 +1,4 @@
-[Go Back to the README Page](readme.md)
+[Go Back to the README Page](https://mbehi.github.io/reading-notes/)
 
 # Text Editor Notes
 
