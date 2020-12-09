@@ -16,6 +16,4 @@ Three reminders of yourself of how to keep yourself in a growth mindset:
 
 Source: https://fs.blog/2015/03/carol-dweck-mindset/
 
-### [Markdown](https://mbehi.github.io/markdown-notes/)
-
 [GitHub portfolio page](https://github.com/mbehi)
