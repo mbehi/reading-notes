@@ -1,4 +1,4 @@
-[Go Back to the README Page](reading-notes)
+[Go Back to the README Page](readme.md)
 
 # Text Editor Notes
 
