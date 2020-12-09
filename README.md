@@ -1,5 +1,10 @@
 # Welcome to Mohsin's Reading Notes for Code 102
 
+Table of Contents
+- [Class 1: Intro & Markdown](https://mbehi.github.io/markdown-notes/)
+- [Class 2: Text Editor ](texteditor-notes)
+
+
 ## **A _growth mindset_ is a key to success in life. In order to improve any situation, you will need a growth mindset. It is essential for any _personal and professional_ development in life.**
 
 Three reminders of yourself of how to keep yourself in a growth mindset: 
