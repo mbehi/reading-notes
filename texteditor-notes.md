@@ -1,5 +1,3 @@
-[Go Back to the README Page](https://mbehi.github.io/reading-notes/readme.md)
-
 # Text Editor Notes
 
 ## Text Editor
