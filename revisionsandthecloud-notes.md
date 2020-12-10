@@ -1,5 +1,5 @@
 # Class 3: Revisions and the Cloud
-[Main Page](readme.md)
+[Main Page](README.md)
 
 ## New Vocabulary
 - VCS
