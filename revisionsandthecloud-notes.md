@@ -39,6 +39,10 @@ Workflow
   - Committing a File
   - Committing All Changes
   - Pushing Changes
-  - 
+  - Stashing Changes
+
+Remote Repositories
+  - Cloned Repositories
+  - Seeing Your Remotes
 
 ## 
