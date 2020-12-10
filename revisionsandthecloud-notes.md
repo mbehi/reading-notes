@@ -2,9 +2,9 @@
 
 ##Git Intro
 1. Version Control - A system that allows you to revisit various versions of a file or set of files by recording changes.
-  1. Local Version Control
-* Centralized Version Control
-* Distributed Version Control
+  - Local Version Control
+  - Centralized Version Control
+  - Distributed Version Control
 1. So, what is Git?
 * Snapshots
 * Local Operations
