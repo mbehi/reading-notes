@@ -32,7 +32,12 @@ Setting up a Git Repository
 
 Workflow
   - Local Repository Structure
-  - Saving Changes
+    1. Working Directory: The actual files reside here.
+    2. Index: The area used for staging
+    3. Head: Points to the most recent commit
+ [Example Chart](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+ 
+ - Saving Changes
   - The Life Cycle of File Status
   - Check File Status
   - Tracking and Staging a New File
