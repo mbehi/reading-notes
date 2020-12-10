@@ -1,5 +1,14 @@
 # Class 3: Revisions and the Cloud
 
+## New Vocabulary
+- VCS
+- Git vs. Github
+- local vs. remote
+- clone
+- commit
+- ACP
+- deployment
+
 ## Git Intro
 
 Version Control - A system that allows you to revisit various versions of a file or set of files by recording changes.
