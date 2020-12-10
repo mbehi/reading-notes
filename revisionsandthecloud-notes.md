@@ -28,5 +28,14 @@ So, what is Git?
 History of Git
 Setting up a Git Repository
 Workflow
+  - Local Repository Structure
+  - Saving Changes
+  - The Life Cycle of File Status
+  - Check File Status
+  - Tracking and Staging a New File
+  - Committing a File
+  - Committing All Changes
+  - Pushing Changes
+  - 
 
 ## 
