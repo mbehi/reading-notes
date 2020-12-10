@@ -1,11 +1,13 @@
-#Revisions and the Cloud
+## Class 3: Revisions and the Cloud
 
 ##Git Intro
-1. Version Control - A system that allows you to revisit various versions of a file or set of files by recording changes.
+
+Version Control - A system that allows you to revisit various versions of a file or set of files by recording changes.
   - Local Version Control
   - Centralized Version Control
   - Distributed Version Control
-1. So, what is Git?
+
+So, what is Git?
   - Snapshots
   - Local Operations
   - Tracking Changes
@@ -14,6 +16,6 @@
     - Committed
     - Modified
     - Staged
-1. History of Git
-1. Setting up a Git Repository
-1. Workflow
+History of Git
+Setting up a Git Repository
+Workflow
