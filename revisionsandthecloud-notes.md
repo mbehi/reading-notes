@@ -55,4 +55,4 @@
   - Cloned Repositories
   - Seeing Your Remotes
 
-## 
+## Lecture Notes 
