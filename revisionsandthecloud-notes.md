@@ -5,7 +5,6 @@
 * Local Version Control
 * Centralized Version Control
 * Distributed Version Control
-
 1. So, what is Git?
 * Snapshots
 * Local Operations
@@ -15,7 +14,6 @@
   - Committed
   - Modified
   - Staged
-
 1. History of Git
 1. Setting up a Git Repository
 1. Workflow
