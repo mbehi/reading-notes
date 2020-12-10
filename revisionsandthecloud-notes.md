@@ -43,8 +43,8 @@
   1. You stage the modified file.
   1. Then, you commit staged changes.
 - Check File Status
- * To determine the stat of files, utilized the ```git status``` command:
- ```$ git status```
+  * To determine the stat of files, utilized the ```git status``` command:
+    ```$ git status```
 - Tracking and Staging a New File
 - Committing a File
 - Committing All Changes
