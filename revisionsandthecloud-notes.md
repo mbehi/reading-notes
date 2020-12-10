@@ -33,15 +33,15 @@
 ### Workflow
 - Local Repository Structure
    1. Working Directory: The actual files reside here.
-   2. Index: The area used for staging
-   3. Head: Points to the most recent commit **[Example Chart](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)**
+   1. Index: The area used for staging
+   1. Head: Points to the most recent commit **[Example Chart](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)**
 - Saving Changes
   * Tracked
   * Untracked
 - The Life Cycle of File Status
   1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
-  2. You stage the modified file.
-  3. Then, you commit staged changes.
+  1. You stage the modified file.
+  1. Then, you commit staged changes.
 - Check File Status
 - Tracking and Staging a New File
 - Committing a File
