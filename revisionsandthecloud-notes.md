@@ -25,8 +25,11 @@ So, what is Git?
     - Committed
     - Modified
     - Staged
+
 History of Git
+
 Setting up a Git Repository
+
 Workflow
   - Local Repository Structure
   - Saving Changes
