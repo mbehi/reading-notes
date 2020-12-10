@@ -6,7 +6,7 @@
 * Centralized Version Control
 * Distributed Version Control
 
-2. So, what is Git?
+1. So, what is Git?
 * Snapshots
 * Local Operations
 * Tracking Changes
@@ -15,3 +15,7 @@
   - Committed
   - Modified
   - Staged
+
+1. History of Git
+1. Setting up a Git Repository
+1. Workflow
