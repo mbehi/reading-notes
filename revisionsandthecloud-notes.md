@@ -10,3 +10,8 @@
 * Snapshots
 * Local Operations
 * Tracking Changes
+* Loss of Data
+* States
+  - Committed
+  - Modified
+  - Staged
