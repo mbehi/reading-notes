@@ -5,6 +5,6 @@ Table of Contents
 - [Class 1: Intro & Markdown](https://mbehi.github.io/markdown-notes/)
 - [Class 2: Text Editor ](texteditor-notes.md)
 - [Class 3: Revisions and the Cloud](revisionsandthecloud-notes.md)
-- [CLass 4: Structure Web Pages with HTML](class4-structurewebpageswithhtml-notes.md)
+- [Class 4: Structure Web Pages with HTML](class4-structurewebpageswithhtml-notes.md)
 
 [GitHub portfolio page](https://github.com/mbehi)
