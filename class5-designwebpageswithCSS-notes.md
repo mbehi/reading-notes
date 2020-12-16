@@ -1,4 +1,5 @@
 # Class 5: Design Webpages with CSS
+
 [Main Page](README.md)
 
 ## New Vocabulary
@@ -11,7 +12,7 @@
 - Rule
 - Selector
 - Property & Value
-- Curly braces 
+- Curly braces
 
 ## Summarized View from HTML & CSS: Chapter 10: Introducton CSS
 
