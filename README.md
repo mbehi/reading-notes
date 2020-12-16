@@ -6,7 +6,7 @@ Table of Contents
 - [Class 2: Text Editor ](texteditor-notes.md)
 - [Class 3: Revisions and the Cloud](revisionsandthecloud-notes.md)
 - [Class 4: Structure Web Pages with HTML](class4-structurewebpageswithhtml-notes.md)
-- [Class 5: Design web pages with CSS](class5-designwebpageswithJavaScript-notes.md)
+- [Class 5: Design web pages with CSS](class5-designwebpageswithCSS-notes.md)
 - [Class 6a: Dynamic web pages with JavaScript](class6a-dynamicwebpageswithJavaScript-notes.md)
 - [Class 6b: Computer Architecture and Logic](class6b-computerarchitectureandlogic-notes.md)
 - [Class 7: Programming with JavaScript](class7-programmingwithJavascript-notes.md)
