@@ -49,3 +49,44 @@
 - An expression evaluates into (result in) a single value. Broadly speaking there ar two types of expessions.
   - 1. Expressions that just assign a value to a variable.
   - 2. Expressions that use two or more values to return a single value.
+
+## Operators
+
+- Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
+## Arithmetic Operator
+
+- `+` Addition
+- `-` Subtraction
+- `/` Division
+- `*` Multiplication
+- `++` Increment
+- `--` Decrement
+- `%` Modulus
+
+## String Operator
+
+- There is just one string operator: the `+` symbol. It is used to join the strings on either side of it.
+
+## What is a Function?
+
+- Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+- Calling the Function: When you ask it to perform its task
+- Parameters: Pieces of informatino passed to a function
+- Return Value: When you write a function and you expect it to provide you with an answer
+
+## Declaring a Function
+
+- To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. This is known as a function declaration.
+
+## Calling a Function
+
+- Having declared the function, you can then execute all of the statements between its curly braces with just one line of code. This is known as calling the function.
+
+## Declaring Functions That Need Information
+
+- Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like varables.
+
+## Calling Functions That Need Information
+
+- When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name. The values are called arguments, and they can be provided as values or as variables.
