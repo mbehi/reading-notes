@@ -90,3 +90,7 @@
 ## Calling Functions That Need Information
 
 - When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name. The values are called arguments, and they can be provided as values or as variables.
+
+## Getting a Single Value Out of a Function
+
+- Some functions return information to the code that called them. For example, when they perform a calculation, they return the result.
