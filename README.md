@@ -12,5 +12,9 @@ Table of Contents for 102
 - [Class 8: Operators and Loops](class8-operatorsandloops-notes.md)
 
 Table of Contents for 201
-- [01: Introductory HTML and Javascript]
+- [Class 1: Introductory HTML and JavaScript](201/Class01_01092021)
+- [Class 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/Class02_01122021)
+- [Class 3: HTML Lists, CSS Boxes, JS Control Flow](201/Class03_01162021)
+
+
 [GitHub portfolio page](https://github.com/mbehi)
