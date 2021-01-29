@@ -1,4 +1,4 @@
-# Welcome to Mohsin's Reading Notes for Code 102
+# Welcome to Mohsin's Reading Notes
 
 
 Table of Contents for 102
