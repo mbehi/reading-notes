@@ -45,4 +45,27 @@
       - Some functions return information to the code that called them.
       - For example, when they perform a calculation, they return the result.
 
+    Getting Multiple Values Out of a Function
+      - Functions can return more than one value using an array.
+      - For example, this function calculates the area and volume of a box.
+
+    Anonymous Functions and Function Expressions
+      - Expressions produce a value.
+      - They can be used where values are expected.
+      - If a function is placed where a browser expects to see an expression, (e.g., as an argument to a function), then it gets treated as an expression.
+
+    Immediately Invoked Function Expressions
+      - This way of writing a function is used in several different situations.
+      - Often functions are used to ensure that the variable names do not conflict with each other (especially if the page uses more than one script).
+
+    Variable Scope
+      - The location where you declare a variable will affect where it can be used within your code.
+      - If you declares it within a function, it can only be used within that function.
+      - This is known as the variable's scope.
+
+    How Memory and Variables Work
+      - Global variables use more memory.
+      - The browser has to remember them for as long as the web page using them is loaded.
+      - Local variables are only remembered during the period of time that a function is being executed.
+
    ## Article 6 Reasons for Pair Programming
