@@ -20,6 +20,29 @@
 
 # Duckett JS Book
    ## Chapter 3 Functions, Methods, and Objects (first part pp 86 to 99)
-     - What is a Function?
-      - Functions let you group a series of statements together to perform a specific tasks. If different parts of a script rep
+     What is a Function?
+      - Functions let you group a series of statements together to perform a specific tasks. 
+      - If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statement).
+     
+     Declaring a Function
+      - To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. 
+      - This is known as a function declaration.
+
+    Calling a Function
+      - Having declared the function you can then execute all of the statements between its curly braces with just one line of code.
+      - This is known as a called the function. 
+   
+    Declaring Functions that need information
+      - Sometimes a function needs specific information to perform its task.
+      - In such cases, when you declare the function you give it parameters.
+      - Inside the function, the parameters act like variables.
+
+    Calling Functions that need information
+      - When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name.
+      - The values are called arguments, and they can be provided as values or as variables.
+
+    Getting Single Value Out of a Function
+      - Some functions return information to the code that called them.
+      - For example, when they perform a calculation, they return the result.
+
    ## Article 6 Reasons for Pair Programming
