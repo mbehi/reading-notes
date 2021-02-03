@@ -58,5 +58,27 @@
 
 # Duckett JS Book
    ## Introduction
-   
+    - How JavaScript makes web pages more interactive
+        1. Access Content
+        2. Modify Content
+        3. Program Rules
+        4. React to Events
+    - Examples of JavaScript in the Browser
+    - The Structure of this Book
+
    ## JS Chapter 1 The ABC of Programming
+    - What is a script and how do I create one? 
+        1. A script is a series of instructions that the computer can follow in order to achieve a goal.
+        2. Each time the script runs, it might only use a subset of all the instructions.
+        3. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
+        4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+    - How do computers fit in with the world around them?
+        1. Computers create models of the world using data.
+        2. The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using the properties of the object; events which are triggered when a user interacts with the computer.
+        3. Programmers can write code to say "When this event occurs, run that code."
+        4. Web browsers use HTML markup to create a model of the web page. Each elemtn creates its own node (which is a kind of object).
+        5. To make web pages interactive, you write code that uses the browser's model of the web page.
+    - How do I write a script for a web page?
+        1. It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the .js extension.
+        2. The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+        3. If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
