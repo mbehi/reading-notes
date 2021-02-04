@@ -58,3 +58,16 @@
       2. The sixth is the object (and is referred to as a complex data type).
 
    ## Chapter 5 Document Object Model 
+    Summary
+     - The browser represents the page using a DOM tree.
+     - DOM trees have four types of nodes:
+      1. Document Nodes
+      2. Element Nodes
+      3. Attribute Nodes
+      4. Text Nodes
+    - You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax. 
+    - Whenever a DOM query can return more than one node, it will always return a NodeList.
+    - From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
+    - An element node can contain multiple text nodes and child elements that are siblings of each other.
+    - In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery).
+    - Browsers offer tools for viewing the DOM tree.
