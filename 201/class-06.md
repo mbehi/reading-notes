@@ -44,4 +44,17 @@
      - You can combine arrays and objects to creat complex data structures: Arrays can store a series of objects (and remember their order).
      - Objects can also hold arrays (as values of their properties).
 
+    What are Built-In Objects?
+     - Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window.
+     - These built-in objects act like a toolkit for creating interactive web pages.
+
+    Global Objects: String Object
+     - Whenever you have a value that is a string, you can use the properties and methods of the String object on that value.
+     - This example stores the phrase "Home sweet home" in a variable.
+
+    Data Types Revisited
+     - In JavaScript, there are six data types: 
+      1. Five of them are described as simple (or primitive) data types.
+      2. The sixth is the object (and is referred to as a complex data type).
+
    ## Chapter 5 Document Object Model 

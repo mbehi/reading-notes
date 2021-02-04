@@ -23,7 +23,7 @@ Table of Contents for 201
 - [Class 9: Forms and Events](201/class-09.md)
 - [Class 10: JS Debugging](201/classs-10.md)
 - [Class 11: Assorted Topics](201/class-11.md)
-- [Class 12: Docs for the HTML <canvas> Element & Chart.js](201/class-12.md)
+- [Class 12: Docs for the HTML `<canvas>` Element & Chart.js](201/class-12.md)
 - [Class 13: Local Storage](201/class-13.md)
 - [Class 14a: CSS Transforms, Transitions, and Animations](201/class-14a.md)
 - [Class 14b: What Google Learned About Teams](201/class-14b.md)
