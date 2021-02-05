@@ -21,7 +21,9 @@
    
    ### Basic Table Structure
    - | `<table>` | The `<table>` element is used to create a table. The contents of the table are written out row by row. |
-   
+   - | `<tr>` |
+    - You indicate the start of each row using the opening `<tr>` tag. (The tr stands for table row.)
+    - It is followed by one or more `<td>` elements (one for each cell in that row).
 
    
 
