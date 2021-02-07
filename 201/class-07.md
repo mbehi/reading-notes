@@ -30,11 +30,11 @@
 # Duckett JS Book
   ## Chapter 3 Function, Methods, and Objects (pp. 106-144)
    ### Creating an Object: Constructor Notation
-    - The new keyword and the object constructor create a blank object.
-    - You can then add properties and methods to the object.
+   - The new keyword and the object constructor create a blank object.
+   - You can then add properties and methods to the object.
    ### Updating an Object
-    - To update the value of properties, use dot notation or square brackets.
-    - They work on objects created using literal or constructor notation.
-    - To delete a property, use the `delete` keyword.
+   - To update the value of properties, use dot notation or square brackets.
+   - They work on objects created using literal or constructor notation.
+   - To delete a property, use the `delete` keyword.
    ### Creating Many Objects: Constructor Notation
-    - 
+   - 
