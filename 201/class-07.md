@@ -62,5 +62,5 @@
    - They hold a related set of key/value pairs (like all objects), but the key for each value is its index number.
    ### Arrays of Objects and Objects in Arrays
    - You can combine arrays and objects to create complex data structures:
-    1. Arrays can store a series of objects (and remember their order).
-    2.
+   1. Arrays can store a series of objects (and remember their order).
+   2. Objects can also hold arrays (as value of their properties).
