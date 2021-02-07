@@ -2,7 +2,11 @@
 
 # Duckett JS Book
    ## Understanding the Problem Domain is the Hardest Part of Programming
-    - 
+   - If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
+      1. Make the problem domain easier.
+      2. Get better at understanding the problem domain.
+   - You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
+   - TIP: It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it.
 
    ## Chapter 3 Object Literals
     What is an Object?
