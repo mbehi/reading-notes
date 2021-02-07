@@ -64,3 +64,32 @@
    - You can combine arrays and objects to create complex data structures:
     1. Arrays can store a series of objects (and remember their order).
     2. Objects can also hold arrays (as value of their properties).
+   ### What are Built-In Objects?
+    - Browsers come with a set of built-in objects that represent things like the browser window and the currnet web page shown in that window.
+    - These built-in objects act like a toolkit for creating interactive web pages.
+    - Your toolkit has three compartments:
+     1. Browser Object Model
+     2. Document Object Model
+     3. Global JavaScript Objects
+   ### Three Groups of Built-In Objects
+    1. Browser Object Model
+    2. Document Object Model
+    3. Global JavaScript Objects
+   ### The Browser Object Model: The Window Object
+    - The `window object` represents the current browser window or tab.
+    - It is the topmost object in the Browser Object Model, and it contains other objects that tell you about the browser.
+   ### Using The Browser Object Model
+   ### The Document Object Model: The Document Object
+    - The topmost object in the Document Object Model (or DOM) is the document object.
+    - It represents the web page loaded into the current browser window to tab.
+    - You meet its child objects in Chapter 5.
+   ### Using the Document Object
+   ### Global Objects: String Object
+    - Whenever you have a value that is a string, you can use the properties and methods of the `String` object on that value.
+    - This example stores the phrase "Home sweet home" in a variable.
+    - Example "var saying = `Home Sweet home`;`"
+    ### Working with Strings
+    ### Data Types Revisited
+     - In JavaScript there are six data types:
+      - Five of them are described as simple (or primitive) data types.
+      - The sixth is the object (and is referred to as a complex data type).
