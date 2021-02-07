@@ -48,19 +48,19 @@
    ### Adding and Removing Properties
    ### Recap: Ways to Create Objects
    ### This (It is a Keyword)
-    - The keyword `this` is commonly used inside functions and objects.
-    - Where the function is declared alters what `this` means.
-    - It always refers to one object, usually the object in which the function operates.
+   - The keyword `this` is commonly used inside functions and objects.
+   - Where the function is declared alters what `this` means.
+   - It always refers to one object, usually the object in which the function operates.
    ### Recap: Storing Data
-    - In JavaScript, data is represented using name/value pairs.
-    - To organize your data, you can use an array or object to group a set of related values.
-    - In arrays and objects the name is also known as a key.
-    - If you want to access items via a property name or key, use an object (but note that each key in the object must be unique).
-    - If the order of the items is important, use an array.
+   - In JavaScript, data is represented using name/value pairs.
+   - To organize your data, you can use an array or object to group a set of related values.
+   - In arrays and objects the name is also known as a key.
+   - If you want to access items via a property name or key, use an object (but note that each key in the object must be unique).
+   - If the order of the items is important, use an array.
    ### Arrays are Objects
-    - Arrays are actually a special type of object.
-    - They hold a related set of key/value pairs (like all objects), but the key for each value is its index number.
+   - Arrays are actually a special type of object.
+   - They hold a related set of key/value pairs (like all objects), but the key for each value is its index number.
    ### Arrays of Objects and Objects in Arrays
-    - You can combine arrays and objects to create complex data structures:
-        1. Arrays can store a series of objects (and remember their order).
-        2.
+   - You can combine arrays and objects to create complex data structures:
+    1. Arrays can store a series of objects (and remember their order).
+    2.
