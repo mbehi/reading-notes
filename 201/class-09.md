@@ -90,6 +90,12 @@
   - HTML5 introduces new form elements which make it easier for visitors to fill in forms.
 
  ## Chapter 14 Lists, Tables and Forms (p.330-357)
+  ### Summary
+   - In addition to the CSS properties covered in other chapters which work with the contents of all elements, there are several otehrs that are specifically used to control the appearance of lists, tables, and forms.
+   - List markers can be given different appearances using the `list-style-type` and `list-style image` properties.
+   - Table cells can have different borders and spacing in different browsers, but there are properties you can use to control them and make them more consistent.
+   - Forms are easier to use if the form controls are vertically aligned using CSS.
+   - Forms benefit from styles that make them feel more interactive.
 
 
 # Duckett JS Book
