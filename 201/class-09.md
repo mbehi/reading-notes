@@ -11,42 +11,42 @@
   - A form may have several form controls, each gathering different information.
   - The server needs to know which piece of inputted data corresponds with which form element.
   ### Form Structure
-  - <form>
+  - `<form>`
    - action
    - method
    - id
   ### Text Input
-  - <input>
+  - `<input>`
    - type="text"
    - name
    - size
    - maxlength 
   ### Password Input
-   - <input>
+   - `<input>`
    - name
    - size, maxlength
   ### Text Area
-   - <textarea>
+   - `<textarea>`
   ### Radio Button
-   - <input>
+   - `<input>`
    - type="radio"
    - name
    - value
    - checked
   ### Checkbox
-   - <input>
+   - `<input>`
    - type="checkbox"
    - name
    - value
    - checked
   ### Drop Down List Box
-   - <select>
+   - `<select>`
    - name
-   - <option>
+   - `<option>`
    - value
    - selected
   ### Multiple Select Box
-   - <select>
+   - `<select>`
    - size
    - multiple
 
