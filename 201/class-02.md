@@ -2,7 +2,7 @@
 
 # Duckett HTML Book
    ## Chapter 2 Text
-    - Headings
+   - Headings
         - <h1> is used for main headings
         - <h2> is used for subheadings
         - <h3> if there are further sections under the subheadings then the element is used and so on, <h4>, <h5>, <h6>
@@ -14,8 +14,8 @@
     - CSS rules usually appear in a separate document, although they may appear within an HTML page.
 
 # Ducket JS Book
-   ## Chapter 2 Basic JavaScript Instructions
-    - A script is made up of a series of statements. Each statement is like a step in a recipe.
+  ## Chapter 2 Basic JavaScript Instructions
+   - A script is made up of a series of statements. Each statement is like a step in a recipe.
     - Scripts contain very precise instruction. For example, you might specify that a value must be remembered before creating a calculation using that value.
     - Variables are used to temporarily store pieces of information used in the script/
     - Arrays are special types of variables that store more than one piece of related information.

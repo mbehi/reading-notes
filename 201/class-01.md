@@ -2,7 +2,7 @@
 
 # Duckett HTML Book
    ## Introduction
-    - The Structure of This Book
+   - The Structure of This Book
         1. HTML
         2. CSS
         3. Practical

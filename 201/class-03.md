@@ -2,8 +2,8 @@
 
 # Duckett HTML Book
    ## Chapter 3 Lists
-    - There are three types of HTML List
-        1. Ordered
+   - There are three types of HTML List
+       1. Ordered
         2. Unordered
         3. Definition
 
