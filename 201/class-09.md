@@ -49,6 +49,45 @@
    - `<select>`
    - size
    - multiple
+  ### File Input Box
+  - `<input>`
+  - type="file"
+  ### Submit Button
+  - `<input>`
+  - type="submit"
+  - name
+  - value
+  ### Image Button
+  - `<input>`
+  - type="image"
+  ### Button and Hidden Controls
+  - `<button>`
+  - `<input>`
+  - type="hidden"
+  ### Labelling Form Controls
+  - `<label>`
+  - for
+  ### Grouping Form Elements
+  - `<fieldset>`
+  - `<legend>`
+  ### HTML5: Form Validation
+  - You have probably seen forms on the web that give users messages if the form control has not been filled in correctly.
+  ### HTML5: Date Input
+  - `<input>`
+  - type="date"
+  ### HTML5: Email and URL Input
+  - `<input>`
+  - type="email"
+  - type="url"
+  ### HTML5: Search Input
+  - `<input>`
+  - type="search"
+  - placeholder
+ ## Summary
+  - Whenever you want to collect information from visitors you will need a form, which lives inside a `<form>` element.
+  - Information from a form is sent in name/value pairs.
+  - Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server.
+  - HTML5 introduces new form elements which make it easier for visitors to fill in forms.
 
  ## Chapter 14 Lists, Tables and Forms (p.330-357)
 
