@@ -1,5 +1,4 @@
 [Return to the Table of Contents](README.md)
-
 # Duckett JS Book
 
 ## Ch 10 Error Handling and Debugging
