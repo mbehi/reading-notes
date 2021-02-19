@@ -5,3 +5,6 @@
 ## A Brief History of Local Store Hacks before HTML5
 ## Introducing HTML5 Storage
 ## Using HTML5 Storage
+- Tracking Changes to the HTML5 Storage Area
+- StorageEvent Object
+- Limitations in Current Browsers
