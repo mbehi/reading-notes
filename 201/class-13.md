@@ -8,3 +8,5 @@
 - Tracking Changes to the HTML5 Storage Area
 - StorageEvent Object
 - Limitations in Current Browsers
+## HTML5 Storage in Action
+## Beyond Named Key-Value Pairs: Completing Visions
